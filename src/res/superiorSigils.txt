@@ -1,0 +1,56 @@
+Superior Sigil of Accuracy:24618
+Superior Sigil of Agony:24612
+Superior Sigil of Air:24554
+Superior Sigil of Battle:24601
+Superior Sigil of Benevolence:24584
+Superior Sigil of Blood:24570
+Superior Sigil of Bloodlust:24575
+Superior Sigil of Celerity:24865
+Superior Sigil of Centaur slaying:24645
+Superior Sigil of Chilling:24630
+Superior Sigil of Corruption:24578
+Superior Sigil of Debility:24636
+Superior Sigil of Demon Slaying:24664
+Superior Sigil of Demon Summoning:24583
+Superior Sigil of Destroyer Slaying:24654
+Superior Sigil of Doom:24609
+Superior Sigil of Dreams:24681
+Superior Sigil of Earth:24560
+Superior Sigil of Energy:24607
+Superior Sigil of Elemental Slaying:24661
+Superior Sigil of Fire:24548
+Superior Sigil of Force:24615
+Superior Sigil of Frailty:24567
+Superior Sigil of Geomancy:24605
+Superior Sigil of Ghost Slaying:24809
+Superior Sigil of Grawl Slaying:24648
+Superior Sigil of Hobbling:24627
+Superior Sigil of Hydromancy:24597
+Superior Sigil of Ice:24555
+Superior Sigil of Icebrood Slaying:24651
+Superior Sigil of Impact:24868
+Superior Sigil of Intelligence:24600
+Superior Sigil of Justice:24678
+Superior Sigil of Leeching:24599
+Superior Sigil of Life:24582
+Superior Sigil of Luck:24591
+Superior Sigil of Mad Scientists:24672
+Superior Sigil of Nullification:24572
+Superior Sigil of Ogre Slaying:24655
+Superior Sigil of Paralyzation:24639
+Superior Sigil of Perception:24580
+Superior Sigil of Peril:24621
+Superior Sigil of Purity:24571
+Superior Sigil of Rage:24561
+Superior Sigil of Restoration:24594
+Superior Sigil of Serpent Slaying:24658
+Superior Sigil of Smothering:24675
+Superior Sigil of Smoldering:24624
+Superior Sigil of Stamina:24592
+Superior Sigil of Sorrow:24684
+Superior Sigil of Speed:24589
+Superior Sigil of Strength:24563
+Superior Sigil of Undead slaying:24642
+Superior Sigil of Venom:24632
+Superior Sigil of Water:24551
+Superior Sigil of Wrath:24667

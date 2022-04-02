@@ -1,0 +1,59 @@
+Major Sigil of Air:24553
+Major Sigil of Ice:24556
+Major Sigil of Fire:24546
+Major Sigil of Luck:24590
+Major Sigil of Doom:24608
+Major Sigil of Life:24581
+Major Sigil of Water:24550
+Major Sigil of Agony:24611
+Major Sigil of Wrath:24668
+Major Sigil of Speed:24588
+Major Sigil of Venom:24633
+Major Sigil of Peril:24620
+Major Sigil of Earth:24559
+Major Sigil of Force:24614
+Major Sigil of Blood:24569
+Major Sigil of Energy:24606
+Major Sigil of Impact:24867
+Major Sigil of Sorrow:24683
+Major Sigil of Malice:44949
+Major Sigil of Dreams:24680
+Major Sigil of Battle:24602
+Major Sigil of Renewal:44946
+Major Sigil of Frailty:24566
+Major Sigil of Justice:24677
+Major Sigil of Agility:74847
+Major Sigil of Celerity:24864
+Major Sigil of Accuracy:24617
+Major Sigil of Bursting:44943
+Major Sigil of Leeching:24598
+Major Sigil of Geomancy:24604
+Major Sigil of Hobbling:24626
+Major Sigil of Mischief:68434
+Major Sigil of Chilling:24629
+Major Sigil of Strength:24563
+Major Sigil of Debility:24635
+Major Sigil of the Night:36054
+Major Sigil of Bloodlust:24574
+Major Sigil of Smoldering:24623
+Major Sigil of Generosity:38293
+Major Sigil of Hydromancy:24596
+Major Sigil of Corruption:24577
+Major Sigil of Perception:24579
+Major Sigil of Benevolence:24586
+Major Sigil of Restoration:24593
+Major Sigil of Transference:75623
+Major Sigil of Ogre Slaying:24656
+Major Sigil of Paralyzation:24638
+Major Sigil of Demon Slaying:24665
+Major Sigil of Karka Slaying:37911
+Major Sigil of Ghost Slaying:24808
+Major Sigil of Concentration:72010
+Major Sigil of Grawl Slaying:24647
+Major Sigil of Undead Slaying:24641
+Major Sigil of Mad Scientists:24671
+Major Sigil of Serpent Slaying:24659
+Major Sigil of Centaur Slaying:24644
+Major Sigil of Icebrood Slaying:24650
+Major Sigil of Elemental Slaying:24662
+Major Sigil of Destroyer Slaying:24653

@@ -1,0 +1,56 @@
+Superior Rune of the Adventurer:24830
+Superior Rune of the Afflicted:24687
+Superior Rune of the Air:24750
+Superior Rune of the Aristocracy:24845
+Superior Rune of the Baelfire:24854
+Superior Rune of Balthazar:24765
+Superior Rune of the Brawler:24833
+Superior Rune of the Centaur:24788
+Superior Rune of the Citadel:24741
+Superior Rune of Divinity:24732
+Superior Rune of the Dolyak:24699
+Superior Rune of Dwayna:24768
+Superior Rune of the Eagle:24723
+Superior Rune of the Earth:24744
+Superior Rune of the Elementalist:24800
+Superior Rune of the Engineer:24812
+Superior Rune of the Fire:24747
+Superior Rune of the Flame Legion:24797
+Superior Rune of the Flock:24696
+Superior Rune of the Forgeman:24851
+Superior Rune of the Golemancer:24785
+Superior Rune of Grenth:24779
+Superior Rune of the Grove:24735
+Superior Rune of the Guardian:24824
+Superior Rune of Hoelbrak:24729
+Superior Rune of Infiltration:24703
+Superior Rune of the Krait:24762
+Superior Rune of the Lich:24688
+Superior Rune of Lyssa:24776
+Superior Rune of Melandru:24771
+Superior Rune of Mercy:24708
+Superior Rune of the Mesmer:24803
+Superior Rune of the Monk:24842
+Superior Rune of the Necromancer:24806
+Superior Rune of the Nightmare:24848
+Superior Rune of the Ogre:24756
+Superior Rune of the Orr:24860
+Superior Rune of the Pack:24702
+Superior Rune of the Privateer:24782
+Superior Rune of Rage:24717
+Superior Rune of the Ranger:24815
+Superior Rune of the Rata Sum:24726
+Superior Rune of the Sanctuary:24857
+Superior Rune of Scavenging:24738
+Superior Rune of the Scholar:24836
+Superior Rune of Speed:24720
+Superior Rune of Strength:24714
+Superior Rune of Svanir:24794
+Superior Rune of the Thief:24818
+Superior Rune of the Traveler:24691
+Superior Rune of the Trooper:24827
+Superior Rune of the Undead:24757
+Superior Rune of Vampirism:24711
+Superior Rune of the Warrior:24821
+Superior Rune of the Water:24839
+Superior Rune of the Wurm:24791

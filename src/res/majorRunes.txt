@@ -1,0 +1,55 @@
+Major Rune of the Adventurer:24829
+Major Rune of the Afflicted:24686
+Major Rune of the Air:24749
+Major Rune of Altruism:38205
+Major Rune of Balthazar:24764
+Major Rune of the Brawler:24832
+Major Rune of the Centaur:24787
+Major Rune of the Citadel:24740
+Major Rune of Divinity:24731
+Major Rune of the Dolyak:24698
+Major Rune of Dwayna:24767
+Major Rune of the Eagle:24722
+Major Rune of the Earth:24743
+Major Rune of the Elementalist:24799
+Major Rune of the Engineer:24811
+Major Rune of Exuberance:44952
+Major Rune of the Fire:24746
+Major Rune of the Flame Legion:24796
+Major Rune of the Flock:24695
+Major Rune of Grenth:24778
+Major Rune of the Grove:24734
+Major Rune of the Guardian:24823
+Major Rune of Hoelbrak:24728
+Major Rune of the Ice:24752
+Major Rune of Infiltration:24704
+Major Rune of the Krait:24761
+Major Rune of the Lich:24690
+Major Rune of Lyssa:24775
+Major Rune of the Mad King:36043
+Major Rune of Melandru:24770
+Major Rune of Mercy:24707
+Major Rune of the Mesmer:24802
+Major Rune of the Necromancer:24805
+Major Rune of the Ogre:24755
+Major Rune of the Pack:24701
+Major Rune of Perplexity:44958
+Major Rune of the Privateer:24781
+Major Rune of Rage:24716
+Major Rune of the Ranger:24814
+Major Rune of Rata Sum:24725
+Major Rune of Scavenging:24737
+Major Rune of the Scholar:24835
+Major Rune of Snowfall:68435
+Major Rune of Speed:24719
+Major Rune of Strength:24713
+Major Rune of Svanir:24793
+Major Rune of the Thief:24817
+Major Rune of Tormenting:44955
+Major Rune of the Traveler:24692
+Major Rune of the Trooper:24826
+Major Rune of the Undead:24758
+Major Rune of Vampirism:24710
+Major Rune of the Warrior:24820
+Major Rune of the Water:24838
+Major Rune of the Wurm:24790
